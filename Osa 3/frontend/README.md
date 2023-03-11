@@ -1,1 +1,1 @@
-Sovellus renderissä: https://part3-front.onrender.com
+Sovellus renderissä: https://part3-front.onrender.com/api/persons
