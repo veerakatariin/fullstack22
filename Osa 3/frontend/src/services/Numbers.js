@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = 'http://localhost:3001/api/persons'
+const url = 'hhttps://part3-back.onrender.com/api/persons'
 
 const getPersons = () => {
     return axios.get(url)
