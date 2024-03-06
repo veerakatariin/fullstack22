@@ -1,0 +1,9 @@
+POST  http://localhost:3003/api/blogs/64c3a10df0504d5b149f42da
+Content-Type: application/json
+
+{
+      "title": "MammaBlogi",
+      "author": "Maija",
+      "url": "www.mammablogi.com",
+      "likes": 500
+}
